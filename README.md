@@ -1,1 +1,1 @@
-
+Gestor utilizado: XAMPP
